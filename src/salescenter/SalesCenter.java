@@ -29,7 +29,7 @@ package salescenter;
 
 
 	public static void main(String[] args) {
-		Manager emp1 = new Manager("Diego","Martin", 55000);
+		Manager emp1 = new Manager("Michael","Scott", 55000);
 		Associate emp2 = new Associate("Kylie", "Walter", 18.50);
 		Associate emp3 = new Associate("Michael", "Rose", 16.75);
 		Scanner input = new Scanner(System.in);
